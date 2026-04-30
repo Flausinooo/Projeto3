@@ -36,6 +36,7 @@ body{
 #imgHero{
     width:400px;
     height:400px;
+    border-radius:50%;
 }
 
 #titulo{
@@ -56,7 +57,7 @@ body{
         opacity:1;
     }
 }
-#texto{
+#texto1{
     font-size:1.5rem;
     animation: efeito 1s ease-in-out;
     opacity:0;
